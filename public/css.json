@@ -1,0 +1,25 @@
+{
+    "short_name": "Capstone",
+    "name": "Cap Browswer",
+    "icons": [
+      {
+        "src": "https://th.bing.com/th/id/OIP.O21O10UUMdtcI_BsMbZQ_wHaHv?rs=1&pid=ImgDetMain",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      },
+      {
+        "src": "https://th.bing.com/th/id/OIP.O21O10UUMdtcI_BsMbZQ_wHaHv?rs=1&pid=ImgDetMain",
+        "type": "image/jpeg",
+        "sizes": "192x192"
+      },
+      {
+        "src": "https://static.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
